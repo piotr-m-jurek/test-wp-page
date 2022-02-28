@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>portfolio</title>
-	<atom:link href="http://localhost/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<title>piotr.m.jurek@gmail.com &#8211; portfolio</title>
+	<atom:link href="http://localhost/portfolio/author/piotr-m-jurekgmail-com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://piotr-m-jurek.github.io/test-wp-page</link>
 	<description>Kolejna witryna oparta na WordPressie</description>
 	<lastBuildDate>Mon, 28 Feb 2022 18:08:41 +0000</lastBuildDate>

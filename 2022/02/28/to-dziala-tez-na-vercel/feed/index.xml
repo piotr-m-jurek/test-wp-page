@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Komentarze do portfolio	</title>
-	<atom:link href="http://localhost/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://piotr-m-jurek.github.io/test-wp-page</link>
+	Komentarze do: To dziala też na vercel	</title>
+	<atom:link href="http://localhost/portfolio/2022/02/28/to-dziala-tez-na-vercel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://piotr-m-jurek.github.io/test-wp-page/2022/02/28/to-dziala-tez-na-vercel/</link>
 	<description>Kolejna witryna oparta na WordPressie</description>
 	<lastBuildDate>Mon, 28 Feb 2022 18:08:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
